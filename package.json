@@ -2,6 +2,9 @@
   "name": "paysis",
   "version": "1.0.0",
   "description": "Payment system API example",
+  "engines": {
+    "node": "14.x"
+  },
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
